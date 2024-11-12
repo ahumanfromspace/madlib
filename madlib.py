@@ -1,0 +1,1 @@
+story = “The other day my friend and I spotted a/an {adjective} looking {noun} on the sidewalk. My friend decided to {verb} it while I {verb}-ed. It was {adjective}. I am quite {adjective}. Anyways then we stole a/an {noun} and it was very {adjective}.”
